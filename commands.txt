@@ -1,0 +1,20 @@
+python testing.py
+   3 git init
+   4 git status
+   5 git add testing.py
+   6 git status
+   7 git rm --cached testing.py
+   8 git status
+   9 git add testing.py
+  10 git status
+  11 git commit -m "This is my latest py file"
+  12 git status
+  13 python testing.py
+  14 rm testing.py
+  15 git restore testing.py
+  16 git remote add origin https://github.com/prajapati1997/git-for-devops.git
+  17 git remote -v
+  18 git branch
+  19 git push origin master
+  20 git history
+  21 hostory
