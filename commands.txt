@@ -1,3 +1,5 @@
+There is all git commands
+
 python testing.py
    3 git init
    4 git status
